@@ -52,21 +52,22 @@ In the Suspension_Coil.csv dataset, the weight capacities of multiple suspension
 
 Perform t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
 
-<b> Lot 1 </b>
+<b> T-Test Comparing all Manufacturing Lots Against Mean PSI of Population </b>
+
+![img8](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del3onesamplettest.PNG)
+
+<b> T-Test for Manufacturing Lot 1 Against Mean PSI of Population </b>
 
 ![img5](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del3Lot1.PNG)
 
-<b> Lot 2 </b>
+<b> T-Test for Manufacturing Lot 2 Against Mean PSI of Population </b>
 
 ![img6](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del3Lot2.PNG)
 
-<b> Lot 3 </b>
+<b> T-Test for Manufacturing Lot 3 Against Mean PSI of Population </b>
 
 ![img7](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del3Lot3.PNG)
 
-<b> Lot 4 </b>
-
-![img8](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del3onesamplettest.PNG)
 
 * Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
 
