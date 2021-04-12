@@ -23,8 +23,19 @@ MechaCar_mpg.csv dataset contains mpg test results for 50 prototype MechaCars. T
 ![img2](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del1summary.PNG)
 
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+
+Looking at the Pr(>|t|) values, the vehicle_length, ground_clearance, and Intercept coefficients are statistically unlikely to provide random amounts of variance to the linear model. When the intercept is statistically significant (<0.05), it means there are other variables and factors that contribute to the variation but have not been included in our model. These additional variables may or may not be within our dataset and may still need to be collected. 
+The p-value is 5.35e-11 and r-squared value is 0.7149. 
+
+
 * Is the slope of the linear model considered to be zero? Why or why not?
+
+The p-value is < 0.05 meaning the slope of the linear model is not zero. 
+
+
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
+The r-squared value is 0.7149, telling us that about 71% of the time the model will predict the mpg values correctly. As stated before, there may be other variables/factors not captured in the dataset that contribute to mpg variation. 
 
 
 ## Summary Statistics on Suspension Coils
