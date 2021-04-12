@@ -65,24 +65,31 @@ The overall summary states that the overall variance of the suspension coils is 
 
 Perform t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
 
+* Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+
 <b> T-Test Comparing all Manufacturing Lots Against Mean PSI of Population </b>
 
-![img8](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del3onesamplettest.PNG)
+![img5](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del3onesamplettest.PNG)
+
+The p-value is 0.06 (> 0.05) meaning the null hypothesis cannot be rejected and that the mean of all the manufacturing lots is statistically similar to the population mean of 1500. 
 
 <b> T-Test for Manufacturing Lot 1 Against Mean PSI of Population </b>
 
-![img5](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del3Lot1.PNG)
+![img6](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del3Lot1.PNG)
+
+The p-value of Lot 1 is 1 (> 0.05) meaning the null hypothesis cannot be rejected and that the mean of manufacturing Lot 1 is statistically similar to the population mean of 1500. 
 
 <b> T-Test for Manufacturing Lot 2 Against Mean PSI of Population </b>
 
-![img6](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del3Lot2.PNG)
+![img7](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del3Lot2.PNG)
+
+The p-value of Lot 2 is 0.61 (> 0.05) meaning the null hypothesis cannot be rejected and that the mean of manufacturing Lot 2 is statistically similar to the population mean of 1500. 
 
 <b> T-Test for Manufacturing Lot 3 Against Mean PSI of Population </b>
 
-![img7](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del3Lot3.PNG)
+![img8](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del3Lot3.PNG)
 
-
-* Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+The p-value of Lot 3 is 0.04 (< 0.05) meaning the null hypothesis can be rejected and that the mean of manufacturing Lot 2 is not statistically similar to the population mean of 1500. 
 
 
 ## Study Design: MechaCar vs Competition
@@ -93,4 +100,6 @@ Perform t-tests to determine if all manufacturing lots and each lot individually
 * What is the null hypothesis or alternative hypothesis?
 * What statistical test would you use to test the hypothesis? And why?
 * What data is needed to run the statistical test?
+
+I would perform a ANOVA test comparing means of continuous numerical variables across a number of groups. For instance, I would test MPG across different vehicle classes (Sedan, SUV, Truck, etc). Then using this data, I would compare the fuel efficiency for MechaCar products versus local competitors. We would aim to reject the <b>null hypothesis</b> (that there is no statistical difference in MPG for MechaCar products and non MechaCar products) to determine that there is actually a statisical difference between the MPG of MechCar products and local competitors which would be the <b>alternative hypothesis</b>.  
 
