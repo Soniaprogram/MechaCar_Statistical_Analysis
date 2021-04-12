@@ -17,6 +17,12 @@ Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 * Is the slope of the linear model considered to be zero? Why or why not?
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
+![img1](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del1linregress.PNG)
+Performed Linear Regression
+
+![img2](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del1summary.PNG)
+Retrieved summary statistics. The p-value was 5.35e-11 and the R-squared value was 0.7149. 
+
 ## Summary Statistics on Suspension Coils
 
 * The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
