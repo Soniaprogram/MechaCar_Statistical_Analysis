@@ -3,13 +3,13 @@
 <b> Purpose: </b>
 AutosRUs want to use data analysis to perform summary statisical analysis using R programming. AutosRUs’ newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing team’s progress. As a result, I am reviewing the production data for insights that may help the manufacturing team.
 
-<b> Deliverable 1 </b>: Linear Regression to Predict MPG
+<b> Deliverable 1: </b> Linear Regression to Predict MPG
 
-<b> Deliverable 2 </b>: Summary Statistics on Suspension Coils
+<b> Deliverable 2: </b> Summary Statistics on Suspension Coils
 
-<b> Deliverable 3 </b>: T-Test on Suspension Coils
+<b> Deliverable 3: </b> T-Test on Suspension Coils
 
-<b> Deliverable 4 </b>: Design a Study Comparing the MechaCar to the Competition
+<b> Deliverable 4: </b> Design a Study Comparing the MechaCar to the Competition
 
 
 ## Linear Regression to Predict MPG
