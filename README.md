@@ -34,11 +34,13 @@ In the Suspension_Coil.csv dataset, the weight capacities of multiple suspension
 * The suspension coil’s PSI continuous variable across all manufacturing lots
 
 <b> Produced overall summary </b>
+
 ![img3](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del2total_summary.PNG)
 
 * The following PSI metrics for each lot: mean, median, variance, and standard deviation.
 
 <b> Produced lot summary </b>
+
 ![img4](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del2lot_summary.PNG)
 
 
