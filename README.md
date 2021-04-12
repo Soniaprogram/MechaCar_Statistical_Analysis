@@ -37,6 +37,7 @@ In the Suspension_Coil.csv dataset, the weight capacities of multiple suspension
 
 ![img3](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del2total_summary.PNG)
 
+
 * The following PSI metrics for each lot: mean, median, variance, and standard deviation.
 
 <b> Produced lot summary </b>
@@ -49,11 +50,21 @@ In the Suspension_Coil.csv dataset, the weight capacities of multiple suspension
 
 ## T-Tests on Suspension Coils
 
+Perform t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
+
+<b> Lot 1 </b>
+
 ![img5](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del3Lot1.PNG)
+
+<b> Lot 2 </b>
 
 ![img6](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del3Lot2.PNG)
 
+<b> Lot 3 </b>
+
 ![img7](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del3Lot3.PNG)
+
+<b> Lot 4 </b>
 
 ![img8](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del3onesamplettest.PNG)
 
