@@ -16,11 +16,11 @@ Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
 MechaCar_mpg.csv dataset contains mpg test results for 50 prototype MechaCars. The MechaCar prototypes were produced using multiple design specifications to identify ideal vehicle performance. Multiple metrics, such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance, were collected for each vehicle. I designed a linear model that predicts the mpg of MechaCar prototypes using several variables from the MechaCar_mpg.csv file. 
 
-![img1](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del1linregress.PNG)
 <b> Performed Linear Regression </b>
+![img1](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del1linregress.PNG)
 
-![img2](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del1summary.PNG)
 <b> Retrieved summary statistics. The p-value was 5.35e-11 and the R-squared value was 0.7149. </b>
+![img2](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del1summary.PNG)
 
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 * Is the slope of the linear model considered to be zero? Why or why not?
@@ -33,13 +33,14 @@ In the Suspension_Coil.csv dataset, the weight capacities of multiple suspension
 
 * The suspension coil’s PSI continuous variable across all manufacturing lots
 
-![img3](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del2total_summary.PNG)
 <b> Produced overall summary </b>
+![img3](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del2total_summary.PNG)
 
 * The following PSI metrics for each lot: mean, median, variance, and standard deviation.
 
-![img4](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del2lot_summary.PNG)
 <b> Produced lot summary </b>
+![img4](https://github.com/Soniaprogram/MechaCar_Statistical_Analysis/blob/main/Images/del2lot_summary.PNG)
+
 
 * The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
