@@ -94,12 +94,5 @@ The p-value of Lot 3 is 0.04 (< 0.05) meaning the null hypothesis can be rejecte
 
 ## Study Design: MechaCar vs Competition
 
-* Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-* In your description, address the following questions:
-* What metric or metrics are you going to test?
-* What is the null hypothesis or alternative hypothesis?
-* What statistical test would you use to test the hypothesis? And why?
-* What data is needed to run the statistical test?
-
-I would perform a ANOVA test comparing means of continuous numerical variables across a number of groups. For instance, I would test MPG across different vehicle classes (Sedan, SUV, Truck, etc). Then using this data, I would compare the fuel efficiency for MechaCar products versus local competitors. We would aim to reject the <b>null hypothesis</b> (that there is no statistical difference in MPG for MechaCar products and non MechaCar products) to determine that there is actually a statisical difference between the MPG of MechCar products and local competitors which would be the <b>alternative hypothesis</b>.  
+Fuel efficiency definitely factors into consumer appeal for a vehicle. Therefore, I would perform a ANOVA test comparing means of continuous numerical variables across a number of groups. I would aim to test means of a single dependent variable across a single independent variable within multiple groups. For instance, I would test MPG across different vehicle classes (Sedan, SUV, Truck, etc). Then using this data, I would compare the fuel efficiency for MechaCar products versus local competitors. We would aim to reject the <b>null hypothesis</b> (that there is no statistical difference in MPG for MechaCar products and non MechaCar products) to determine that there is actually a statistical difference between the MPG of MechCar products and local competitors which would be the <b>alternative hypothesis</b>.  
 
